@@ -1,0 +1,1 @@
+VKTOKEN = 'Укажите сюда ваш VKToken'
